@@ -6,7 +6,7 @@ This project explores whether *different event types* trigger different market r
 
 By quantifying how stock prices respond to each category, we take a first step toward building smarter, event-driven tools for analysts, investors, and trading systems.
 
----
+
 
 ## 📁 What’s Inside
 - **Preprocessing**: Flattened multi-label 8-K data (up to 3 categories per filing)
