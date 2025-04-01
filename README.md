@@ -28,11 +28,8 @@ By quantifying how stock prices respond to each category, we take a first step t
 ## Next Steps
 
 This analysis validates that **text classification can surface financially meaningful signals**.  
-I’m currently extending this into:
+I’m currently extending this into **Portfolio-level and strategy-based backtesting**, using event categories to guide risk-aware trades  
 
-- **Portfolio-level and strategy-based backtesting**, using event categories to guide risk-aware trades  
-- **Forecasting next events** from sequences of SEC filings (sequence modeling)  
-- Exploring **sentiment and filing tone** to layer onto event types  
 
 
 
