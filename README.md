@@ -38,4 +38,4 @@ I’m currently extending this into **Portfolio-level and strategy-based backtes
 Built by **Fathmat** — aspiring quant and NLP explorer.  
 I’m passionate about building tools that make financial information more actionable.
 
-📫 [Connect on LinkedIn](www.linkedin.com/in/fathmat-bakayoko-30715024a)
+📫 [Connect on LinkedIn](https://linkedin.com/in/fathmat-bakayoko-30715024a)
