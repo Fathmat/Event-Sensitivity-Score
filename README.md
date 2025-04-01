@@ -1,10 +1,11 @@
-# 📊 Event Sensitivity Score — SEC 8-K Disclosures & Market Reactions
+# Event Sensitivity Score — SEC 8-K Disclosures & Market Reactions
 
-## 🧠 Why This Matters
+## Why This Matters
 SEC 8-K filings contain critical information about corporate events — from leadership changes to lawsuits.  
 This project explores whether *different event types* trigger different market reactions, using NLP-labeled filings and historical stock data.
 
 By quantifying how stock prices respond to each category, we take a first step toward building smarter, event-driven tools for analysts, investors, and trading systems.
+
 
 
 
@@ -15,11 +16,13 @@ By quantifying how stock prices respond to each category, we take a first step t
 - **Interpretation**: Written summary of what we observed — and what comes next
 
 
+
 ## 🔍 Key Observations
 
 - **Litigation and Lawsuit** filings tend to trigger **negative returns**
 - Events like **Operational Activities** and **Document Updates** show **modest positive reactions**
 - While returns are small, consistent trends emerge — particularly in the 3-day window
+
 
 
 ## Next Steps
@@ -32,7 +35,8 @@ I’m currently extending this into:
 - Exploring **sentiment and filing tone** to layer onto event types  
 
 
-## 👩🏽‍💻 About Me
+
+## About Me
 
 Built by **Fathmat** — aspiring quant and NLP explorer.  
 I’m passionate about building tools that make financial information more actionable.
